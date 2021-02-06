@@ -1,0 +1,87 @@
+{
+  "uid" : "5a53ad14ee98c7b4",
+  "name" : "isPrimeNumbNegativeTest",
+  "fullName" : "NumbersOperationsTests.isPrimeNumbNegativeTest",
+  "historyId" : "8048ed570b7eae922bca53fe828e8e4b",
+  "time" : {
+    "start" : 1612628280910,
+    "stop" : 1612628280947,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Check if number is not prime",
+      "time" : {
+        "start" : 1612628280941,
+        "stop" : 1612628280945,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "NumbersOperationsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "NumbersOperationsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "isPrimeNumbNegativeTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All tests"
+  }, {
+    "name" : "suite",
+    "value" : "TestsStringAndNumbersOperations "
+  }, {
+    "name" : "subSuite",
+    "value" : "NumbersOperationsTests"
+  }, {
+    "name" : "host",
+    "value" : "asus-tatiana"
+  }, {
+    "name" : "thread",
+    "value" : "15192@asus-tatiana.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a53ad14ee98c7b4.json",
+  "parameterValues" : [ ]
+}

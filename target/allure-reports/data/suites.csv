@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 06 18:18:00 EET 2021","Sat Feb 06 18:18:00 EET 2021","37","All tests","TestsStringAndNumbersOperations ","NumbersOperationsTests","NumbersOperationsTests","isPrimeNumbNegativeTest","isPrimeNumbNegativeTest",""
+"passed","Sat Feb 06 18:18:01 EET 2021","Sat Feb 06 18:18:01 EET 2021","0","All tests","TestsStringAndNumbersOperations ","StringOperationsTests","StringOperationsTests","isPalindromeNegativeTest","isPalindromeNegativeTest",""
+"passed","Sat Feb 06 18:18:01 EET 2021","Sat Feb 06 18:18:01 EET 2021","1","All tests","TestsStringAndNumbersOperations ","NumbersOperationsTests","NumbersOperationsTests","isPrimeNumbPositiveTest","isPrimeNumbPositiveTest",""
+"passed","Sat Feb 06 18:18:01 EET 2021","Sat Feb 06 18:18:01 EET 2021","1","All tests","TestsStringAndNumbersOperations ","NumbersOperationsTests","NumbersOperationsTests","secondMaxValuePositiveTest","secondMaxValuePositiveTest",""
+"passed","Sat Feb 06 18:18:01 EET 2021","Sat Feb 06 18:18:01 EET 2021","0","All tests","TestsStringAndNumbersOperations ","StringOperationsTests","StringOperationsTests","isPalindromePositiveTest","isPalindromePositiveTest",""
+"passed","Sat Feb 06 18:18:01 EET 2021","Sat Feb 06 18:18:01 EET 2021","0","All tests","TestsStringAndNumbersOperations ","StringOperationsTests","StringOperationsTests","reverseStringPositiveTest","reverseStringPositiveTest",""
+"passed","Sat Feb 06 18:18:01 EET 2021","Sat Feb 06 18:18:01 EET 2021","1","All tests","TestsStringAndNumbersOperations ","StringOperationsTests","StringOperationsTests","countOfWordsPositiveTest","countOfWordsPositiveTest",""

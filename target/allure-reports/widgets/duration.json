@@ -1,0 +1,71 @@
+[ {
+  "uid" : "5a53ad14ee98c7b4",
+  "name" : "isPrimeNumbNegativeTest",
+  "time" : {
+    "start" : 1612628280910,
+    "stop" : 1612628280947,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e15614ddf8e8850",
+  "name" : "isPalindromeNegativeTest",
+  "time" : {
+    "start" : 1612628281095,
+    "stop" : 1612628281095,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ff6ddc0b344028c",
+  "name" : "isPrimeNumbPositiveTest",
+  "time" : {
+    "start" : 1612628281079,
+    "stop" : 1612628281080,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6dadd3c6d84f73e",
+  "name" : "secondMaxValuePositiveTest",
+  "time" : {
+    "start" : 1612628281086,
+    "stop" : 1612628281087,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d521133904517f9",
+  "name" : "isPalindromePositiveTest",
+  "time" : {
+    "start" : 1612628281099,
+    "stop" : 1612628281099,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa1f8ab8670d3ca8",
+  "name" : "reverseStringPositiveTest",
+  "time" : {
+    "start" : 1612628281104,
+    "stop" : 1612628281104,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf0ae414b1e58423",
+  "name" : "countOfWordsPositiveTest",
+  "time" : {
+    "start" : 1612628281091,
+    "stop" : 1612628281092,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
